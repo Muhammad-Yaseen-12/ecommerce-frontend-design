@@ -1043,5 +1043,6 @@ body {
     padding: 5px;
     background-color: rgb(244, 244, 244);
     color: #aaa;
+    /* border: 1px solid; */
     border: none;
 }
